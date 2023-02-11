@@ -1,0 +1,6 @@
+.venv/
+.ipynb_checkpoints/
+./06_templates/.ipynb_checkpoints
+.virtual_documents/
+
+
