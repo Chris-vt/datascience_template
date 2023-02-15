@@ -8,6 +8,7 @@
 		"git.ignoreLimitWarning": true,
 		"python.envFile": "${workspaceFolder}/.venv",
 		"python.languageServer": "Pylance",
-		"vsintellicode.features.python.deepLearning": "enabled"
+		"vsintellicode.features.python.deepLearning": "enabled",
+    	"python.analysis.extraPaths": [".dsutils" ]
 	}
 }
